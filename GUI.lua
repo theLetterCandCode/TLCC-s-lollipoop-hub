@@ -208,6 +208,7 @@ local script = G2L["8"];
 		lclplr.Morphs.Frame.MorphIDFB.Marker.Bought.Value = true
 		lclplr.Morphs.Frame.MorphIDFB.RobotFlower.Bought.Value = true
 		lclplr.Morphs.Frame.MorphIDFB.Roboty.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Remote.Bought.Value = true
 		lclplr.Morphs.Frame.MorphIDFB.Saw.Bought.Value = true
 		lclplr.Morphs.Frame.MorphIDFB.Stapy.Bought.Value = true
 		lclplr.Morphs.Frame.MorphIDFB.TV.Bought.Value = true
