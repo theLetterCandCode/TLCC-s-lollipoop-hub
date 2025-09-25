@@ -1,4 +1,11 @@
-
+--[=[
+ d888b  db    db d888888b      .d888b.      db      db    db  .d8b.  
+88' Y8b 88    88   `88'        VP  `8D      88      88    88 d8' `8b 
+88      88    88    88            odD'      88      88    88 88ooo88 
+88  ooo 88    88    88          .88'        88      88    88 88~~~88 
+88. ~8~ 88b  d88   .88.        j88.         88booo. 88b  d88 88   88    @uniquadev
+ Y888P  ~Y8888P' Y888888P      888888D      Y88888P ~Y8888P' YP   YP  CONVERTER 
+]=]
 
 -- Instances: 11 | Scripts: 5 | Modules: 0 | Tags: 0
 local G2L = {};
@@ -185,34 +192,34 @@ local script = G2L["8"];
 		lclplr.Morphs.Frame.MorphBFDI1.Bubble.Bought.Value = true
 		print("BFDI characters enabled")
 		task.wait(0.01)
-		lclplr.Morphs.MorphIDFB.Balloony.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Basketball.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Bell.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Blackhole.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Blehbag.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Bottle.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Bracelety.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Cake.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Cloudy.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Eggy.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Eightball.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Fanny.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.FireyJr.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Foldy.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Gaty.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Grassy.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Lightning.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Liy.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Lollipop.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Loser.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Marker.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.RobotFlower.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Roboty.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Saw.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Stapy.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.TV.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Taco.Bought.Value = true
-		lclplr.Morphs.MorphIDFB.Tree.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Balloony.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Basketball.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Bell.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Blackhole.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Blehbag.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Bottle.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Bracelety.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Cake.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Cloudy.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Eggy.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Eightball.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Fanny.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.FireyJr.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Foldy.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Gaty.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Grassy.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Lightning.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Liy.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Lollipop.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Loser.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Marker.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.RobotFlower.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Roboty.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Saw.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Stapy.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.TV.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Taco.Bought.Value = true
+		lclplr.Morphs.Frame.MorphIDFB.Tree.Bought.Value = true
 		print("IDFB/BFB characters enabled")
 	end)
 end;
