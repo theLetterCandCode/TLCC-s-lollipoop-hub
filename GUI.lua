@@ -438,8 +438,10 @@ local script = G2L["19"];
 		local browhat = game:GetService("Players").LocalPlayer.PlayerGui
 		browhat.NewShop.TotalFrame.BagFrame.SeatInv:WaitForChild(r1):WaitForChild("Seat70"):WaitForChild("SeatVal").Value = r2
 		browhat.NewShop.TotalFrame.BagFrame.SeatInv:WaitForChild(r1):WaitForChild("Seat70").Image = "rbxassetid://11012215782"
+		browhat.NewShop.TotalFrame.BagFrame.SeatInv:WaitForChild(r1):WaitForChild("Seat70").Visible = true
 		browhat.NewShop.TotalFrame.BagFrame.CakeInv:WaitForChild(r1):WaitForChild("Cake110"):WaitForChild("CakeVal").Value = r2
 		browhat.NewShop.TotalFrame.BagFrame.CakeInv:WaitForChild(r1):WaitForChild("Cake110").Image = "rbxassetid://11012215782"
+		browhat.NewShop.TotalFrame.BagFrame.CakeInv:WaitForChild(r1):WaitForChild("Cake110").Visible = true
 	end)
 end;
 task.spawn(C_19);
